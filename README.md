@@ -98,6 +98,7 @@ The presentation markup hierarchy needs to be `.reveal > .slides > section` wher
 		<section>
 			<section>Vertical Slide 1</section>
 			<section>Vertical Slide 2</section>
+			<section>Vertical Slide III</section>
 		</section>
 	</div>
 </div>
